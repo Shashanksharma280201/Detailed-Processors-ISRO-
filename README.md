@@ -1,4 +1,4 @@
-# Detailed-Processors-ISRO-
+# Detailed-Processors-ISRO
 
 ## Most common Architectures :- 
 CISC (Complex Instruction Set Computing):
