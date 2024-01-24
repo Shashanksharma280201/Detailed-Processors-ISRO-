@@ -3,11 +3,11 @@
 ## Most common Architectures :- 
 CISC (Complex Instruction Set Computing):
 
-1. CISC architectures have a large set of instructions, some of which can perform complex operations.
+### 1. CISC architectures have a large set of instructions, some of which can perform complex operations.
 - Instructions vary in length and complexity.
 - Examples: x86 (Intel, AMD), Motorola 68k.
 
-2. RISC (Reduced Instruction Set Computing):
+### 2. RISC (Reduced Instruction Set Computing):
 - RISC architectures have a smaller set of simple and frequently used instructions.
 - Instructions are typically of fixed length.
 - Emphasizes a smaller set of instructions with higher execution speed.
